@@ -1,5 +1,7 @@
 # Modelos Preditivos para Diagnostico da Covid-19 atraves de exames de Hemograma
 
+Desenvolvimento efetuado em Python.
+
 Foram desenvolvidos dois modelos em Machine Learning para diagnostico da Covid-19 a partir de exames laboratoriais de hemograma.
 
 O primeiro modelo foi baseado em SVM - Support Vector Machines;
